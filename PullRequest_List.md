@@ -14,8 +14,8 @@ Name: Zane Mejia (ajmejia5)
 Link to PR for other team: https://github.com/Sama147/ideenigel_ser316_german_story/pull/13
 
 
-Name:
-Link to PR for other team:
+Name: Daniel Boland (dboland2)
+Link to PR for other team: https://github.com/SophCollenburg/Icebreaker--SER316/pull/9
 
 
 Name:
